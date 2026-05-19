@@ -1,0 +1,8 @@
+{
+  "nome": "Informe o seu nome completo",
+  "email": "Informe o seu melhor email",
+  "cpf": "Informe o seu CPF",
+  "cep": "Informe o seu CEP",
+  "numero": "Informe um número maior que zero",
+  "foto": "Adcione um documento com foto (RG ou CHN)"
+}
